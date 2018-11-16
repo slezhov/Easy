@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Easy</string>
+    <string name="question">Введите ваше имя</string>
+</resources>
